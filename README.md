@@ -47,6 +47,7 @@ Also, I want to give an honorable mention to some other instruments I've worked 
 Here are a couple of projects I've recently worked on:  
 - [Dream Job 3000](https://github.com/s-p-sochnev/dreamjob3000) - A RESTful application with microservice architecture that I developed using Spring, Apache Kafka, H2 database.
 - [SK Example Serverside](https://github.com/s-p-sochnev/sk_example_serverside) - A monolith application created using Spring, PostgreSQL, Testcontainers.
+- [LD Photo Service](https://github.com/s-p-sochnev/ld_photo_service) - A monolith REST API application that provides an FTP server access via Spring Integration.
 
 ---- 
 
