@@ -57,5 +57,3 @@ You can reach out to me via:
 - 💬 Telegram: [@s_p_sochnev](https://t.me/s_p_sochnev)  
 
 Thanks for visiting my GitHub profile, and I look forward to connecting with you!
-
-Open to hiring now.
